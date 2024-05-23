@@ -5,7 +5,7 @@ const Hero = () => (
   <Form>
     <Container>
       <Title>
-        As melhores vagas para tecnologia, design e artes visuais.
+        As melhores vagas para tecnologia, design e artes visuais
       </Title>
     </Container>
   </Form>
